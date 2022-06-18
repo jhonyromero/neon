@@ -28,7 +28,7 @@ background: #06090d;
     --:1s;
 }
 
-.ripple::before{
+.ripple::after{
     --:2s;
 }
 
